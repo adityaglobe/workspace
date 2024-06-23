@@ -5,7 +5,7 @@
 <h1>My first PHP page</h1>
 
 <?php
-echo "Hello india ! Ashi!!!!! aditya   helloa sharmsdsc  ";
+echo "Hello india ! world india jetking sharma  ";
 ?>
 
 </body>
