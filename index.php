@@ -3,11 +3,11 @@
 <body>
 
 <h1>My first PHP page! 
-welcome! I love my india
+welcome! I love my india   and pakistan
 </h1>
 
 <?php
-echo "Hello World! Ashi!!!!! i am aditya ashishk";
+echo "Hello World! Ashi!!!!! i am ad";
 ?>
 
 </body>
