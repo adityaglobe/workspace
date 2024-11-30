@@ -7,7 +7,7 @@ welcome! I love my india  and pakistan
 </h1>
 
 <?php
-echo "Hello World! Ashi!!!!! i am ad";
+echo "Hello World! Ashi!!!!! i am adi";
 ?>
 
 </body>
